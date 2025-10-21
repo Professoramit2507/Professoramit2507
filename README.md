@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="https://ibb.co.com/d40S7QNF" alt="Amit Profile" />
+  <!-- <img height="250" src="https://ibb.co.com/d40S7QNF" alt="Amit Profile" /> -->
 </div>
 
 ###
@@ -218,7 +218,7 @@
 
 ###
 </br>
-<h3 align="center">📊 GitHub Stats & Streaks</h3>
+<!-- <h3 align="center">📊 GitHub Stats & Streaks</h3>
 
 
 ###
@@ -233,32 +233,32 @@
 
 </div>
 
-###
+### -->
 
 
 ## 
 </br>
-<h3 align="center">🏆 GitHub Trophies</h3>
+<!-- <h3 align="center">🏆 GitHub Trophies</h3>
 
 ##
 <div align="center">
    <img src="https://github-trophies.vercel.app/?username=Professoramit2507
 
 &theme=radical&no-frame=false&no-bg=false&margin-w=4" height="200" alt="trophy"  />
-</div>
+</div> -->
 
 
 ## 
 </br>
-<h3 align="center">✨ GitHub Contribution Graph</h3>
+<!-- <h3 align="center">✨ GitHub Contribution Graph</h3> -->
 
 
 ##
-<div align="center">
+<!-- <div align="center">
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Professoramit2507
 
 &radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
 
-<div>
+<div> -->
 
 ###
