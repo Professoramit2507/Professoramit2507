@@ -1,264 +1,137 @@
 <div align="center">
-  <!-- <img height="250" src="https://ibb.co.com/d40S7QNF" alt="Amit Profile" /> -->
+
+<!-- Profile Image (Uncomment if needed)
+<img height="250" src="YOUR_IMAGE_URL" alt="Amit Profile" />
+-->
+
 </div>
 
-###
+<h2 align="left">Amit Mahmud Amil<br/>MERN Stack Developer</h2>
 
-<div>
-  <h2 align="left">Amit Mahmud Amil</br>Front-end Developer</h2>
-  
+---
+<div align="center">
+  <img src="Gold Modern Personal LinkedIn Banner.png" alt="Amit Mahmud Amil Banner" />
 </div>
-
-###
 
 <h3 align="center">👋 Hey there, curious minds</h3>
 
-###
+<p align="center">
+This is Amit here, a passionate MERN Stack Developer and Undergrad CSE student at Netrokona University.  
+I build fast, scalable, and user-focused web applications using MongoDB, Express.js, React, and Node.js.  
+With strong expertise in modern frontend tools like React, JavaScript, TailwindCSS, CSS3, and HTML5 — combined with backend skills in Node.js, Express and MongoDB — I develop full-stack solutions that deliver real impact.  
+I don’t just write code—I design systems, solve problems, optimize performance, and collaborate effectively to ship high-quality products.
+</p>
 
-<p align="center">This is Amit here, a Front-end Developer, an Undergrad. CSE student studying in Netrokona University, who crafts fast, accessible, and user-centered web experiences. With deep expertise in React, JavaScript, TailwindCSS, CSS3, HTML5 and responsive design, I specialize in building polished interfaces that scale—from landing pages to full-fledged web apps. I don’t just code—I solve problems, optimize performance, and collaborate closely with product teams to deliver measurable results.</p>
 
-###
-</br>
-<h3 align="left">🔄 Current Activities :</h3>
+---
 
-###
+## 🔄 Current Activities :
 
-- 🚀 Building responsive and accessible UI components with React + TailwindCSS
-- 📚 Learning and exploring backend integration
-- 🛠️ Participating in GitHub open-source projects and frontend discussions
-- 🎓 Balancing university coursework with real-world development
-- 🧠 Maintaining a growth mindset while debugging tricky issues
-- 🤝 Pair programming with friends or teammates to share knowledge
+- 🚀 Building full-stack web apps using React, Node.js & MongoDB  
+- ⚡ Improving API design, authentication & backend logic  
+- 🎨 Crafting clean, reusable UI components  
+- 📚 Deep-diving into Next.js & advanced React patterns  
+- 🧠 Enhancing problem-solving & debugging skills  
+- 🤝 Collaborating on open-source & team-based projects  
 
-###
-</br>
-<h2 align="center">💼 Skills</h2>
+---
 
-###
+## 💼 Skills
 
-<h3 align="center">🧩 Frontend</h3>
+### 🧩 Frontend
+<div align="center">
+<table>
+<tr>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="48" /><br>HTML</td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="48" /><br>CSS</td>
+  <td align="center" width="96"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="48" /><br>Tailwind</td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="48" /><br>JavaScript</td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" /><br>React</td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="48" /><br>Next.js</td>
+  <td align="center" width="96"><img src="https://cdn.simpleicons.org/mui/007FFF" width="48" /><br>MUI</td>
+</tr>
+</table>
+</div>
 
-###
+---
 
+### 🛠️ Backend
+<div align="center">
+<table>
+<tr>
+  <td align="center" width="96"><img src="https://cdn.simpleicons.org/nodedotjs/339933" width="48" /><br>Node.js</td>
+  <td align="center" width="128"><img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" width="128" /><br>Express.js</td>
+  <td align="center" width="96"><img src="https://cdn.simpleicons.org/mongodb/47A248" width="48" /><br>MongoDB</td>
+</tr>
+</table>
+</div>
+
+---
+
+### 💻 Dev Tools
+<div align="center">
+<table>
+<tr>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48" /><br>VS Code</td>
+  <td align="center" width="96"><img src="https://cdn.simpleicons.org/git/F05032" width="48" /><br>Git</td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="48" /><br>GitHub</td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=firebase" width="48" /><br>Firebase</td>
+  <td align="center" width="96"><img src="https://cdn.simpleicons.org/netlify/00C7B7" width="48" /><br>Netlify</td> <br>
+  <td align="center" width="144"><img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" width="144" /><br>Vercel</td>
+</tr>
+<tr>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma" width="48" /><br>Figma</td>
+  <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" /><br>Canva</td>
+  <td align="center" width="96"><img src="https://cdn.simpleicons.org/npm/CB3837" width="48" /><br>NPM</td>
+  <td align="center" width="96"><img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="48" /><br>Google Cloud</td>
+</tr>
+</table>
+</div>
+
+---
+
+### 👨‍💻 Problem Solving
+<div align="center">
+<table>
+<tr>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=c" width="48" /><br>C</td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp" width="48" /><br>C++</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 🌐 Social Links
 <div align="center">
 <table>
 <tr>
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-    <br>HTML
+    <a href="mailto:amitmahmud846@gmail.com">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" />
+    </a>
   </td>
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-    <br>CSS
-  </td>
-  <td align="center" width="96">
-    <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="48" height="48" alt="Tailwind logo" />
-    <br>Tailwind
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-    <br>JavaScript
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-    <br>React
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="nextjs logo" />
-    <br>Next.js
-  </td>
-  <td align="center" width="96">
-    <img src="https://cdn.simpleicons.org/mui/007FFF" width="48" height="48" alt="materialui logo" />
-    <br>Materialui
+    <a href="Amit Mahmud Amil">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" />
+    </a>
   </td>
 </tr>
 </table>
 </div>
 
-###
-</br>
-<h3 align="center">🛠️ Backend</h3>
+---
 
-###
+## 📊 GitHub Stats
 
-<div align="center">
-<table>
-<tr>
-  <td align="center" width="96">
-    <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="48" height="48" alt="nodejs logo" />
-    <br>Node.js
-  </td>
-  <td align="center" width="128">
-    <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" width="128" height="48" alt="express logo" />
-    <br>Express.js
-  </td>
-  <td align="center" width="96">
-    <img src="https://cdn.simpleicons.org/mongodb/47A248" width="48" height="48" alt="mongodb logo" />
-    <br>MongoDB
-  </td>
-</tr>
-</table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=professoramit2507&show_icons=true&layout=compact" />
+</p>
 
-###
-</br>
-<h3 align="center">💻 Dev Tools</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=professoramit2507&show_icons=true" />
+</p>
 
-###
-
-
- <div align="center">
-<table>
-<tr>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="vs code logo" />
-    <br>VScode
-  </td>
-  <td align="center" width="96">
-    <img src="https://cdn.simpleicons.org/git/F05032" width="48" height="48" alt="git" />
-    <br>Git
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="github" />
-    <br>Github
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="firebase" />
-    <br>Firebase
-  </td>
-  <td align="center" width="96">
-    <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="48" height="48" alt="netlify" />
-    <br>Netlify
-  </td>
-  <td align="center" width="144">
-    <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" width="144" height="48" alt="versel" />
-    <br>Versel
-  </td>
-</tr>
-<tr>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="figma" />
-    <br>Figma
-  </td>
-  <td align="center" width="96">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48" alt="canva" />
-    <br>Canva
-  </td>
-  <td align="center" width="96">
-    <img src="https://cdn.simpleicons.org/npm/CB3837" width="48" height="48" alt="npm" />
-    <br>NPM
-  </td>
-  <td align="center" width="96">
-    <img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="48" height="48" alt="googlecloud" />
-    <br>GoogleCloud
-  </td>
-</tr>
-</table>
-</div>
-
-###
-</br>
-<h3 align="center">👨‍💻 Problem Solving</h3>
-
-###
-
-<div align="center">
-<table>
-<tr>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="c logo" />
-    <br>C
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="CPP logo" />
-    <br>C++
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java logo" />
-    <br>Java
-  </td>
-</tr>
-</table>
-</div>
-
-###
-</br>
-<h3 align="center">🌐 Social Links</h3>
-
-###
-
-<div align="center">
-<table>
-<tr>
-  <td align="center" width="96">
-    <a href="mailto:" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="44" alt="gmail logo"  />
-  </a>
-  </td>
-  <td align="center" width="96">
-    <a href="" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="44" alt="linkedin logo"  />
-  </a>
-  </td>
-  <td align="center" width="96">
-    <a href="" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="44" alt="twitter logo"  />
-  </a>
-  </td>
-  <td align="center" width="96">
-    <a href="" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="44" alt="whatsapp logo"  />
-  </a>
-  </td>
-</tr>
-</table>
-</div>
-  
-</div>
-
-###
-</br>
-<!-- <h3 align="center">📊 GitHub Stats & Streaks</h3>
-
-
-###
-
-<div align="center">
-# 📊 GitHub Stats:
-(https://github-readme-stats.vercel.app/api?username=Professoramit2507&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-(https://nirzak-streak-stats.vercel.app/?user=Professoramit2507&theme=dark&hide_border=false)<br/>
-(https://github-readme-stats.vercel.app/api/top-langs/?username=Professoramit2507&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-(https://visitcount.itsvg.in/api?id=Professoramit2507&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-</div>
-
-### -->
-
-
-## 
-</br>
-<!-- <h3 align="center">🏆 GitHub Trophies</h3>
-
-##
-<div align="center">
-   <img src="https://github-trophies.vercel.app/?username=Professoramit2507
-
-&theme=radical&no-frame=false&no-bg=false&margin-w=4" height="200" alt="trophy"  />
-</div> -->
-
-
-## 
-</br>
-<!-- <h3 align="center">✨ GitHub Contribution Graph</h3> -->
-
-
-##
-<!-- <div align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Professoramit2507
-
-&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
-
-<div> -->
-
-###
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=professoramit2507" />
+</p>
