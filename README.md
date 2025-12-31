@@ -125,13 +125,10 @@ I don’t just write code—I design systems, solve problems, optimize performan
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=professoramit2507&show_icons=true&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-six-phi.vercel.app/api?username=professoramit2507&show_icons=true&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=professoramit2507&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-six-phi.vercel.app/api/top-langs/?username=professoramit2507&layout=compact&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=professoramit2507&theme=tokyonight" />
-</p>
