@@ -132,3 +132,9 @@ I don’t just write code—I design systems, solve problems, optimize performan
   <img src="https://github-readme-stats-six-phi.vercel.app/api/top-langs/?username=professoramit2507&layout=compact&theme=dark" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile%20Views-Count-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/professoramit2507?style=for-the-badge" />
+</p>
+
+
