@@ -48,7 +48,6 @@ I don’t just write code—I design systems, solve problems, optimize performan
   <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js" width="48" /><br>JavaScript</td>
   <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48" /><br>React</td>
   <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="48" /><br>Next.js</td>
-  <td align="center" width="96"><img src="https://cdn.simpleicons.org/mui/007FFF" width="48" /><br>MUI</td>
 </tr>
 </table>
 </div>
